@@ -1,7 +1,5 @@
-# Titulo Principal 
+# **Influencia de las IAs en el Aprendizaje Humano**
 
-## Subtitulo
+## Por Martín Barreiro Vidal
 
-#### Cuartonivel
 
-safsdgasdgasdg
