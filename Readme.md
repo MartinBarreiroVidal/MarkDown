@@ -29,7 +29,7 @@ Sin embargo, también existen desafíos y desventajas:
 > [!CAUTION]
 > Confiar únicamente en respuestas automáticas puede llevar a errores o malentendidos en el aprendizaje.
 
-![DESVENTAJAS](https://www.inesdi.com/sites/default/files/inline-images/peligros-y-desventajas-de-la-inteligencia-artificial-1.jpeg)
+![DESVENTAJAS](https://www.sistemaimpulsa.com/blog/wp-content/uploads/2024/04/Desventajas-de-la-Inteligencia-Artificial-2.jpg)
 
 En conclusión, la IA representa una influencia decisiva en el aprendizaje humano. Bien aplicada, puede convertirse en un recurso poderoso que complemente y potencie los métodos educativos tradicionales.
 
