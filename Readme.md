@@ -12,9 +12,9 @@ Durante siglos, el aprendizaje dependía de libros, clases presenciales y la gu�
 Hoy en día, con el **apoyo de herramientas de IA**, los estudiantes pueden acceder a explicaciones inmediatas, ejemplos personalizados y contenidos adaptados a su nivel de comprensión.
 
 Entre los beneficios más destacados se encuentran:
-- [x] Disponibilidad en cualquier momento y lugar. 
-- [x] Rapidez para encontrar información.
-- [x] Posibilidad de tener una experiencia de aprendizaje más interactiva.
+- [x] **Disponibilidad** en cualquier momento y lugar. 
+- [x] **Rapidez** para encontrar información.
+- [x] Posibilidad de tener una **experiencia de aprendizaje más interactiva**.
 
 > [!TIP]
 > Aprovecha la IA como apoyo para repasar conceptos difíciles y practicar con ejercicios personalizados.
@@ -22,39 +22,14 @@ Entre los beneficios más destacados se encuentran:
 ![Ventajas](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147503248/images/a48fda7-5b64-7ae5-0116-75c4301fd3a_infografia-inteligencia-artificial-en-la-educacion-mundana.jpg)
 
 Sin embargo, también existen desafíos y desventajas:
-- :x: Puede generar dependencia excesiva y reducir la capacidad crítica de los estudiantes.  
-- :x: Limitar su autonomía si no se usan con responsabilidad.
-- :x: Puede reducir la interacción social y el aprendizaje colaborativo entre estudiantes.
+- :x: Puede **generar dependencia** excesiva y **reducir la capacidad crítica** de los estudiantes.  
+- :x: **Limitar su autonomía** si no se usan con responsabilidad.
+- :x: Puede **reducir la interacción social** y el **aprendizaje colaborativo** entre estudiantes.
 
 > [!CAUTION]
 > Confiar únicamente en respuestas automáticas puede llevar a errores o malentendidos en el aprendizaje.
 
+![DESVENTAJAS](https://www.inesdi.com/sites/default/files/inline-images/peligros-y-desventajas-de-la-inteligencia-artificial-1.jpeg)
 
+En conclusión, la IA representa una influencia decisiva en el aprendizaje humano. Bien aplicada, puede convertirse en un recurso poderoso que complemente y potencie los métodos educativos tradicionales.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[+Info UNESCO](https://www.unesco.org/es/digital-education/artificial-intelligence)
