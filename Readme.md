@@ -16,6 +16,9 @@ Entre los beneficios más destacados se encuentran:
 - [x] Rapidez para encontrar información.
 - [x] Posibilidad de tener una experiencia de aprendizaje más interactiva.
 
+> [!TIP]
+> Aprovecha la IA como apoyo para repasar conceptos difíciles y practicar con ejercicios personalizados.
+
 ![Ventajas](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147503248/images/a48fda7-5b64-7ae5-0116-75c4301fd3a_infografia-inteligencia-artificial-en-la-educacion-mundana.jpg)
 
 Sin embargo, también existen desafíos y desventajas:
@@ -23,6 +26,8 @@ Sin embargo, también existen desafíos y desventajas:
 - :x: Limitar su autonomía si no se usan con responsabilidad.
 - :x: Puede reducir la interacción social y el aprendizaje colaborativo entre estudiantes.
 
+> [!CAUTION]
+> Confiar únicamente en respuestas automáticas puede llevar a errores o malentendidos en el aprendizaje.
 
 
 
