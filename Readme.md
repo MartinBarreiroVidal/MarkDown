@@ -12,11 +12,11 @@ Durante siglos, el aprendizaje dependía de libros, clases presenciales y la gu�
 Hoy en día, con el **apoyo de herramientas de IA**, los estudiantes pueden acceder a explicaciones inmediatas, ejemplos personalizados y contenidos adaptados a su nivel de comprensión.
 
 Entre los beneficios más destacados se encuentran:
-- La disponibilidad en cualquier momento y lugar.
-* La rapidez para encontrar información.
-+ La posibilidad de tener una experiencia de aprendizaje más interactiva.
+- [x] Disponibilidad en cualquier momento y lugar. 
+- [x] Rapidez para encontrar información.
+- [x] Posibilidad de tener una experiencia de aprendizaje más interactiva.
 
-
+![Ventajas](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147503248/images/a48fda7-5b64-7ae5-0116-75c4301fd3a_infografia-inteligencia-artificial-en-la-educacion-mundana.jpg)
 
 
 
