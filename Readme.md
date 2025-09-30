@@ -1,4 +1,4 @@
-# **Influencia de las IAs en el Aprendizaje Humano**
+# **Influencia de las IAs en el Aprendizaje Humano** :robot:
 
 
 
@@ -18,7 +18,10 @@ Entre los beneficios más destacados se encuentran:
 
 ![Ventajas](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147503248/images/a48fda7-5b64-7ae5-0116-75c4301fd3a_infografia-inteligencia-artificial-en-la-educacion-mundana.jpg)
 
-
+Sin embargo, también existen desafíos y desventajas:
+- :x: Puede generar dependencia excesiva y reducir la capacidad crítica de los estudiantes.  
+- :x: Limitar su autonomía si no se usan con responsabilidad.
+- :x: Puede reducir la interacción social y el aprendizaje colaborativo entre estudiantes.
 
 
 
