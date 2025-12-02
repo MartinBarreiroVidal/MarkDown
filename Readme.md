@@ -41,3 +41,6 @@ En conclusión, la IA representa una influencia decisiva en el aprendizaje human
 [+Info MegaProfe](https://megaprofe.es/impacto-de-la-inteligencia-artificial-en-el-aprendizaje/?)
 
 [+Info IUNIT](https://iunit.edu.es/noticias/impacto-de-la-ia-en-la-educacion-y-el-trabajo/)
+
+
+Trabajo Readme para COD.
