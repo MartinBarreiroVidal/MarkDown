@@ -6,7 +6,7 @@
 
 ## Por Martín Barreiro Vidal
 
-La **inteligencia artificial** está transformando la manera en que los seres humanos adquieren conocimiento.
+La ***inteligencia artificial*** está transformando la manera en que los seres humanos adquieren conocimiento.
 Durante siglos, el aprendizaje dependía de libros, clases presenciales y la guía de expertos.
 
 Hoy en día, con el **apoyo de herramientas de IA**, los estudiantes pueden acceder a explicaciones inmediatas, ejemplos personalizados y contenidos adaptados a su nivel de comprensión.
